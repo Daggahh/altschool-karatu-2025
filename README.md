@@ -6,17 +6,18 @@ This repository contains my learning progress, assignments, and notes for the **
 
 altschool-karatu-2025
 │
-├── README.md  
+├── README.md
 └── semester-1/
-└── SWE-501/
-├── assignment-1/
-│ └── index.html
-├── assignment-2/
-│ ├── table/
-│ │ └── table.html
-│ └── media/
-│ ├── media.html
-│ └── assets/
+    └── SWE-501/
+        ├── assignment-1/
+        │   └── index.html
+        ├── assignment-2/
+            └── media/
+                └── aassets/
+                └── media.html
+            └── table/
+                └── table.html
+
 
 ## 🔗 Assignment Links
 
